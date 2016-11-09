@@ -1,1 +1,3 @@
-This is a demo App for Card Layout.
+
+# React-Card-Layout-App
+Basic App for Adding/ Deleting/Updating/Searching 
