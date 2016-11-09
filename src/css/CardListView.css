@@ -1,0 +1,40 @@
+.listWrapper{
+	width: 100%;
+	padding: 10px 0px;
+	float: left;
+	border-bottom: 2px solid #ccc;
+}
+.cardListImageWrapper{
+	width: 20%;
+	float: left;
+}
+.cardListDetails{
+	padding-top: 15px;
+	width: 75%;
+	margin-left: 25%;
+	text-align: left;
+}
+.cardListImage{
+	max-width: 100%;
+}
+.cardListDescription{
+	margin-top: 10px;
+}
+.cardListSeeMore{
+	margin-top: 12px;
+	font-size: 14px;
+	font-weight: 600;
+}
+.cardListSeeMore a {
+	color: red;
+}
+.deleteCard{
+	float: right;
+	
+}
+.editTitle{
+  margin-left: 10px;
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}

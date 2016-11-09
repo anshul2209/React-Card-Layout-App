@@ -1,0 +1,71 @@
+.headerWrapper {
+  background-color: #222;
+  height: 20px;
+  padding: 20px;
+  color: white;
+}
+.companyTitle{
+  color: white;
+  font-size: 26px;
+  font-weight: 600;
+  float: left;
+  margin-left: 10px;
+}
+.navRight{
+	float: right;
+}
+@media screen and (min-width: 475px){
+  .add{
+    display: inline-block;
+    margin-right: 140px;
+    padding: 0px 10px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  .plusIcon{
+    display: none;
+  }
+  .addCard{
+    cursor: pointer;
+  }
+}
+@media screen and (max-width: 475px){
+  .add{
+    display: inline-block;
+    padding: 0px 10px;
+    margin-right: 40px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+  }
+  .addCard{
+    display: none;
+  }
+  .plusIcon{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin-right: 70px;
+    cursor: pointer;
+  }
+}
+
+.listView{
+	display: inline-block;
+	padding: 0px 10px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.gridView{
+	display: inline-block;
+	padding: 0px 10px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.listIcon, .gridIcon {
+	max-width: 100%;
+  cursor: pointer;
+}
