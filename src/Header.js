@@ -22,7 +22,7 @@ export default class Header extends Component {
 
 		return (
 			<div className="headerWrapper">
-				<div className="companyTitle">ROPOSO</div>
+				<div className="companyTitle">LOGO</div>
 				<div className="navRight">
 					<div className="add">
 					  <img src={plus} name="plus" className="plusIcon" alt="plus" onClick={this.addCard}/>
