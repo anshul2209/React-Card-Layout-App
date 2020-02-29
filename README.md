@@ -2,7 +2,7 @@
 # React-Card-Layout-App  
 Basic App for Adding/ Deleting/Updating/Searching   
 
-#Things To Try Out  
+## Things To Try Out  
   
 1) Create a new card - with an option to add a title and description.  
 2) Delete a card   
@@ -10,7 +10,7 @@ Basic App for Adding/ Deleting/Updating/Searching
 4) Toggle between Grid view, List view.    
 5) ​A search bar which will allow to dynamically search and filter the card based on title or description​ as the user types on the go.  
 
-#For Installation   
+## For Installation   
 1) clone this repo // git clone https://github.com/anshul2209/React-Card-Layout-App.git   
 2) change directory to project // cd React-Card-Layout-App   
 3) npm install  
